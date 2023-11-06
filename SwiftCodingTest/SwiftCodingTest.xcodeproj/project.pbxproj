@@ -56,6 +56,19 @@
 		BFE17F442AF55C2200BB685F /* 스킬트리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "스킬트리.swift"; sourceTree = "<group>"; };
 		BFE17F462AF55D1C00BB685F /* 타겟 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "타겟 넘버.swift"; sourceTree = "<group>"; };
 		BFE17F482AF7D98200BB685F /* 큰 수 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "큰 수 만들기.swift"; sourceTree = "<group>"; };
+		BFE17F4A2AF89EC400BB685F /* 카펫.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "카펫.swift"; sourceTree = "<group>"; };
+		BFE17F4C2AF89ED300BB685F /* H-Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H-Index.swift"; sourceTree = "<group>"; };
+		BFE17F4E2AF89EE600BB685F /* 소수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "소수 찾기.swift"; sourceTree = "<group>"; };
+		BFE17F502AF8A26700BB685F /* [3차] 압축.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[3차] 압축.swift"; sourceTree = "<group>"; };
+		BFE17F522AF8A64000BB685F /* 가장 큰 정사각형.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장 큰 정사각형.swift"; sourceTree = "<group>"; };
+		BFE17F532AF8D1D200BB685F /* 하노이 탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "하노이 탑.swift"; sourceTree = "<group>"; };
+		BFE17F552AF8D51900BB685F /* JadenCase 문자열 만들기   .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JadenCase 문자열 만들기   .swift"; sourceTree = "<group>"; };
+		BFE17F562AF8D5E400BB685F /* 최솟값 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최솟값 만들기.swift"; sourceTree = "<group>"; };
+		BFE17F572AF8D6D300BB685F /* 멀리 뛰기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "멀리 뛰기.swift"; sourceTree = "<group>"; };
+		BFE17F592AF8D96000BB685F /* 땅따먹기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "땅따먹기.swift"; sourceTree = "<group>"; };
+		BFE17F5B2AF8DBC400BB685F /* 가장 큰 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장 큰 수.swift"; sourceTree = "<group>"; };
+		BFE17F5D2AF8DDD100BB685F /* 기능개발.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "기능개발.swift"; sourceTree = "<group>"; };
+		BFE17F5F2AF8E0AC00BB685F /* [1차] 캐시.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1차] 캐시.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,11 +128,24 @@
 				BF06E7B42AF1447100EF012E /* 시소 짝꿍.swift */,
 				BF06E7B62AF1561800EF012E /* 테이블 해시 함수.swift */,
 				BF06E7B72AF1563D00EF012E /* 점 찍기.swift */,
+				BFE17F4E2AF89EE600BB685F /* 소수 찾기.swift */,
 				BF06E7B92AF1599F00EF012E /* 귤 고르기.swift */,
+				BFE17F5D2AF8DDD100BB685F /* 기능개발.swift */,
+				BFE17F5F2AF8E0AC00BB685F /* [1차] 캐시.swift */,
 				BF31AE112AF270BA00554E1C /* 양궁 대회.swift */,
+				BFE17F502AF8A26700BB685F /* [3차] 압축.swift */,
+				BFE17F532AF8D1D200BB685F /* 하노이 탑.swift */,
+				BFE17F5B2AF8DBC400BB685F /* 가장 큰 수.swift */,
+				BFE17F552AF8D51900BB685F /* JadenCase 문자열 만들기   .swift */,
+				BFE17F572AF8D6D300BB685F /* 멀리 뛰기.swift */,
+				BFE17F592AF8D96000BB685F /* 땅따먹기.swift */,
+				BFE17F522AF8A64000BB685F /* 가장 큰 정사각형.swift */,
 				BF06E7BA2AF15ED400EF012E /* 숫자 카드 나누기.swift */,
+				BFE17F562AF8D5E400BB685F /* 최솟값 만들기.swift */,
 				BF06E7BB2AF165B600EF012E /* 우박 수열 정적분.swift */,
 				BF06E7BC2AF1697600EF012E /* 롤케이크 자르기.swift */,
+				BFE17F4A2AF89EC400BB685F /* 카펫.swift */,
+				BFE17F4C2AF89ED300BB685F /* H-Index.swift */,
 				BF31AE0B2AF25AC500554E1C /* 택배 상자.swift */,
 				BF31AE132AF2788800554E1C /* 주차요금 계산.swift */,
 				BF31AE152AF27E1600554E1C /* K진수에서 소수 개수 구하기.swift */,
