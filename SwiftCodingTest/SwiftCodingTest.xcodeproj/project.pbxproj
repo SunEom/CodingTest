@@ -47,6 +47,8 @@
 		BF31AE152AF27E1600554E1C /* K진수에서 소수 개수 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "K진수에서 소수 개수 구하기.swift"; sourceTree = "<group>"; };
 		BF31AE172AF285D900554E1C /* 피로도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피로도.swift"; sourceTree = "<group>"; };
 		BF862BBF2AFA756F00ACEA78 /* [1차] 뉴스 클러스터링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[1차] 뉴스 클러스터링.swift"; sourceTree = "<group>"; };
+		BFC7059C2AFBA61A000A2C83 /* 배달.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배달.swift"; sourceTree = "<group>"; };
+		BFC7059D2AFBA912000A2C83 /* 짝지어 제거하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝지어 제거하기.swift"; sourceTree = "<group>"; };
 		BFE17F382AF4E2A700BB685F /* 전력망을 둘로 나누기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "전력망을 둘로 나누기.swift"; sourceTree = "<group>"; };
 		BFE17F3A2AF4E2BB00BB685F /* 괄호 회전하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "괄호 회전하기.swift"; sourceTree = "<group>"; };
 		BFE17F3C2AF4E2F500BB685F /* 쿼드압축 후 개수 세기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "쿼드압축 후 개수 세기.swift"; sourceTree = "<group>"; };
@@ -149,9 +151,11 @@
 				BFE17F4A2AF89EC400BB685F /* 카펫.swift */,
 				BFE17F4C2AF89ED300BB685F /* H-Index.swift */,
 				BF31AE0B2AF25AC500554E1C /* 택배 상자.swift */,
+				BFC7059C2AFBA61A000A2C83 /* 배달.swift */,
 				BF31AE132AF2788800554E1C /* 주차요금 계산.swift */,
 				BF31AE152AF27E1600554E1C /* K진수에서 소수 개수 구하기.swift */,
 				BF31AE172AF285D900554E1C /* 피로도.swift */,
+				BFC7059D2AFBA912000A2C83 /* 짝지어 제거하기.swift */,
 				BF31AE0D2AF25CFA00554E1C /* 연속 부분 수열 합의 개수.swift */,
 				BF31AE0F2AF264D100554E1C /* 할인 행사.swift */,
 				BFE17F382AF4E2A700BB685F /* 전력망을 둘로 나누기.swift */,
