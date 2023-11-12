@@ -51,6 +51,9 @@
 		BF9654A32AFF7CD600EC3A2F /* 보석 쇼핑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "보석 쇼핑.swift"; sourceTree = "<group>"; };
 		BF9654A42AFF7FFB00EC3A2F /* 섬 연결하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "섬 연결하기.swift"; sourceTree = "<group>"; };
 		BF9654A52AFF8B3800EC3A2F /* 여행경로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "여행경로.swift"; sourceTree = "<group>"; };
+		BF9654A72B00AB2500EC3A2F /* [카카오 인턴] 경주로 건설.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "[카카오 인턴] 경주로 건설.swift"; sourceTree = "<group>"; };
+		BF9654A82B00AFBB00EC3A2F /* 입국심사.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "입국심사.swift"; sourceTree = "<group>"; };
+		BF9654A92B00B38100EC3A2F /* 가장 긴 펠린드롬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가장 긴 펠린드롬.swift"; sourceTree = "<group>"; };
 		BFA1ACBB2AFC738A0074F725 /* 연속 펄스 부분 수열의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "연속 펄스 부분 수열의 합.swift"; sourceTree = "<group>"; };
 		BFA1ACBC2AFC73A50074F725 /* 네트워크.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네트워크.swift"; sourceTree = "<group>"; };
 		BFA1ACBD2AFC73B50074F725 /* 단어변환.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어변환.swift"; sourceTree = "<group>"; };
@@ -198,6 +201,9 @@
 				BFA1ACBE2AFC73C90074F725 /* 숫자 게임.swift */,
 				BFA1ACBF2AFC73DB0074F725 /* 기지국 설치.swift */,
 				BF9654A42AFF7FFB00EC3A2F /* 섬 연결하기.swift */,
+				BF9654A72B00AB2500EC3A2F /* [카카오 인턴] 경주로 건설.swift */,
+				BF9654A82B00AFBB00EC3A2F /* 입국심사.swift */,
+				BF9654A92B00B38100EC3A2F /* 가장 긴 펠린드롬.swift */,
 			);
 			path = "Level 3";
 			sourceTree = "<group>";
