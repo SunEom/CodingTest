@@ -44,6 +44,8 @@
 		BF06E7BA2AF15ED400EF012E /* 숫자 카드 나누기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "숫자 카드 나누기.swift"; sourceTree = "<group>"; };
 		BF06E7BB2AF165B600EF012E /* 우박 수열 정적분.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "우박 수열 정적분.swift"; sourceTree = "<group>"; };
 		BF06E7BC2AF1697600EF012E /* 롤케이크 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "롤케이크 자르기.swift"; sourceTree = "<group>"; };
+		BF0804682B284C7D002547E6 /* 우주신과의 교감.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "우주신과의 교감.swift"; sourceTree = "<group>"; };
+		BF08046A2B284FD6002547E6 /* 욕심쟁이 판다 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "욕심쟁이 판다 .swift"; sourceTree = "<group>"; };
 		BF311EC12B1B052100CFA213 /* 별자리 만들기 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "별자리 만들기 .swift"; sourceTree = "<group>"; };
 		BF311EC32B1B08D300CFA213 /* 레이저 통신.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "레이저 통신.swift"; sourceTree = "<group>"; };
 		BF311EC52B1C81D400CFA213 /* 행렬 곱셈 순서.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "행렬 곱셈 순서.swift"; sourceTree = "<group>"; };
@@ -282,6 +284,8 @@
 				BF311EC12B1B052100CFA213 /* 별자리 만들기 .swift */,
 				BF9A12082B27351000CCE56C /* 로봇.swift */,
 				BF311EC52B1C81D400CFA213 /* 행렬 곱셈 순서.swift */,
+				BF0804682B284C7D002547E6 /* 우주신과의 교감.swift */,
+				BF08046A2B284FD6002547E6 /* 욕심쟁이 판다 .swift */,
 			);
 			path = "Gold 3";
 			sourceTree = "<group>";
@@ -362,7 +366,7 @@
 				TargetAttributes = {
 					BF06E79F2AF13BD100EF012E = {
 						CreatedOnToolsVersion = 15.0.1;
-						LastSwiftMigration = 1500;
+						LastSwiftMigration = 1510;
 					};
 				};
 			};
