@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		BF9EA36A2B2B14DE00F5BC28 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9EA3692B2B14DE00F5BC28 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		BF06E79E2AF13BD100EF012E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -93,6 +97,7 @@
 		BF9EA3632B29755E00F5BC28 /* 성곽.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "성곽.swift"; sourceTree = "<group>"; };
 		BF9EA3652B29800500F5BC28 /* 공주님의 정원.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "공주님의 정원.swift"; sourceTree = "<group>"; };
 		BF9EA3672B29874C00F5BC28 /* 세 용액.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "세 용액.swift"; sourceTree = "<group>"; };
+		BF9EA3692B2B14DE00F5BC28 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BFA1ACBB2AFC738A0074F725 /* 연속 펄스 부분 수열의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "연속 펄스 부분 수열의 합.swift"; sourceTree = "<group>"; };
 		BFA1ACBC2AFC73A50074F725 /* 네트워크.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네트워크.swift"; sourceTree = "<group>"; };
 		BFA1ACBD2AFC73B50074F725 /* 단어변환.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어변환.swift"; sourceTree = "<group>"; };
@@ -293,6 +298,7 @@
 				BF311EC52B1C81D400CFA213 /* 행렬 곱셈 순서.swift */,
 				BF9EA3632B29755E00F5BC28 /* 성곽.swift */,
 				BF0804682B284C7D002547E6 /* 우주신과의 교감.swift */,
+				BF9EA3692B2B14DE00F5BC28 /* main.swift */,
 				BF08046A2B284FD6002547E6 /* 욕심쟁이 판다 .swift */,
 			);
 			path = "Gold 3";
@@ -401,6 +407,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF9EA36A2B2B14DE00F5BC28 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
